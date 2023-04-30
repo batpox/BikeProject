@@ -1,5 +1,5 @@
 <Fragment>
-  <ViewInfo>
+  <ViewInfo ActiveModel="True" ActiveView="Process">
     <Facility FollowDistanceRatio="1">
       <Camera Orientation="Perspective" Location="25.8182002348223 18.9489865265077 17.484668661481" Direction="-0.577350269189626 -0.577350269189626 -0.577350269189626" Zoom="66.980831460917244" />
       <ObjectDisplay LineArrows="False" SnapToGrid="True" Background="1e90ff" />

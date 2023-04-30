@@ -26,7 +26,7 @@
         </Properties>
         <Exit Name="Created" Type="Alternate" NextID="2" />
       </Step>
-      <Step Type="Transfer" Name="Input@Stock" ID="5">
+      <Step Type="Transfer" Name="Input@Stock" Color="f00000" ID="5">
         <Properties>
           <Property Name="NodeName">Input@Stock</Property>
         </Properties>
