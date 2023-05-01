@@ -6276,9 +6276,9 @@
         </AttachedObjects>
       </Graphics>
     </Fixed>
-    <Fixed Name="Stock" Type="Server" Location="10 0 -11.25" YawDeg="90" Size="2.08920814597344 0.999103702764571 1.000000367302" Scope="Public">
+    <Fixed Name="Stock" Type="Server" Location="12.5 0 -1.5" YawDeg="90" Size="2.08920814597344 0.999103702764571 1.000000367302" Scope="Public">
       <AssociatedNodes>
-        <Node Name="Input@Stock" Type="BasicNode" Location="8.5 0 -11.25" YawDeg="90" Scope="Public" RotationChangesLocation="False">
+        <Node Name="Input@Stock" Type="BasicNode" Location="11 0 -1.5" YawDeg="90" Scope="Public" RotationChangesLocation="False">
           <Properties>
             <Property Name="InitialCost" Units="USD">0.0</Property>
             <Property Name="InitialCostRate" Units="USD per Hour">0.0</Property>
@@ -6295,7 +6295,7 @@
           </Properties>
           <Graphics ExternallyVisible="True" />
         </Node>
-        <Node Name="Output@Stock" Type="TransferNode" Location="11.5 0 -11.25" YawDeg="90" Scope="Public" RotationChangesLocation="False">
+        <Node Name="Output@Stock" Type="TransferNode" Location="14 0 -1.5" YawDeg="90" Scope="Public" RotationChangesLocation="False">
           <Properties>
             <Property Name="InitialCost" Units="USD">0.0</Property>
             <Property Name="InitialCostRate" Units="USD per Hour">0.0</Property>
@@ -6450,20 +6450,20 @@
         <AttachedObjects IndexList="87 88 89">
           <Queue Queue="InputBuffer.Contents" ExternallyVisible="True" RotationChangesLocation="False" RotationChangesOrientation="False">
             <Points>
-              <Point Location="9 0 -10.75" />
-              <Point Location="6 0 -10.75" />
+              <Point Location="11.5 0 -1" />
+              <Point Location="8.5 0 -1" />
             </Points>
           </Queue>
           <Queue Queue="OutputBuffer.Contents" ExternallyVisible="True" RotationChangesLocation="False" RotationChangesOrientation="False">
             <Points>
-              <Point Location="11 0 -10.75" />
-              <Point Location="14 0 -10.75" />
+              <Point Location="13.5 0 -1" />
+              <Point Location="16.5 0 -1" />
             </Points>
           </Queue>
           <Queue Queue="Processing.Contents" ExternallyVisible="True" RotationChangesLocation="False" RotationChangesOrientation="False">
             <Points>
-              <Point Location="9 0 -12.25" />
-              <Point Location="11 0 -12.25" />
+              <Point Location="11.5 0 -2.5" />
+              <Point Location="13.5 0 -2.5" />
             </Points>
           </Queue>
         </AttachedObjects>
@@ -6925,7 +6925,7 @@
         </PathDecoratorUsage>
       </Graphics>
     </Link>
-    <Link Name="Path3" Type="Path" Size="59.89 0 0" Scope="Public" Start="Output@Stock" End="Input@MaterialAssembly">
+    <Link Name="Path3" Type="Path" Size="55.8 0 0" Scope="Public" Start="Output@Stock" End="Input@MaterialAssembly">
       <Points>
         <Point Location="26.1981456623609 0 -3.76333223409974" />
         <Point Location="17.8018543376391 0 5.76333223409974" />

@@ -4,7 +4,7 @@
       <Property Name="TokenClassName">TaskToken</Property>
     </Properties>
     <Steps>
-      <Step Type="Interrupt" Name="MaterialAssembly" ID="2">
+      <Step Type="Interrupt" Name="MaterialAssembly" Color="9bbb59" ID="2">
         <Properties>
           <Property Name="ProcessName">
             <Value>MaterialAssembly.OnEnteredProcessing</Value>

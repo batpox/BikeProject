@@ -399,8 +399,8 @@
     <Properties>
       <Property Name="ResourceName">Stock</Property>
       <Property Name="Description">Stock</Property>
-      <Property Name="XLocation">10</Property>
-      <Property Name="ZLocation">-11.25</Property>
+      <Property Name="XLocation">12.5</Property>
+      <Property Name="ZLocation">-1.5</Property>
       <Property Name="Area">Shipping and Receiving</Property>
       <Property Name="Workcell">Stock</Property>
       <Property Name="ObjectType">Server</Property>
