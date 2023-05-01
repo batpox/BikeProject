@@ -4,7 +4,7 @@
       <Camera Orientation="Top" Location="14.1417503994174 66.9808314609172 -15.7198389219605" Direction="0 -1 -2.22044604925031E-16" Zoom="66.980831460917216" />
       <ObjectDisplay LineArrows="False" SnapToGrid="True" Background="1e90ff" />
       <Libraries Width="122">
-        <Library Name="Standard Library" Size="388" Expanded="True" />
+        <Library Name="Standard Library" Size="474" Expanded="True" />
         <Library Name="Flow Library" Size="28" />
         <Library Name="Extras Library" Size="28" />
       </Libraries>
