@@ -1,7 +1,7 @@
 <Fragment>
-  <ViewInfo ActiveModel="True" ActiveView="Process">
+  <ViewInfo ActiveModel="True" ActiveView="Facility">
     <Facility FollowDistanceRatio="1">
-      <Camera Orientation="Perspective" Location="25.8182002348223 18.9489865265077 17.484668661481" Direction="-0.577350269189626 -0.577350269189626 -0.577350269189626" Zoom="32.820607415849437" />
+      <Camera Orientation="Top" Location="6.8692137083146 32.8206074158494 -1.4643178650267" Direction="0 -1 -2.22044604925031E-16" Zoom="32.820607415849437" />
       <ObjectDisplay LineArrows="False" SnapToGrid="True" Background="1e90ff" />
       <Libraries Width="122">
         <Library Name="Standard Library" Size="474" Expanded="True" />
